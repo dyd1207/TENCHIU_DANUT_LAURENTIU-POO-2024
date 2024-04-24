@@ -1,0 +1,4 @@
+﻿  CreditCardAccount.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  CreditOrganizer.vcxproj -> D:\Facultate\Anul I\Semestrul II\POO\CreditOrganizer\x64\Debug\CreditOrganizer.exe
